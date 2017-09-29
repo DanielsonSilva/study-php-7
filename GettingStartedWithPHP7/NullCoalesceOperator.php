@@ -15,6 +15,7 @@ If $name is set to null value and the execution of the same command line is: <?=
 
 <br>
 
+
 With the <b>Null Coalesce Operator</b> it become more simpler the same command line: <b>echo $name ?? "a"</b><br>
 <?php $name = "Danielson"; ?>
 The value from $name: <?= var_dump($name) ?><br>
