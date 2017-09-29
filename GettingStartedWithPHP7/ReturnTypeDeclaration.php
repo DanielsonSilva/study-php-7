@@ -75,8 +75,8 @@ function double($a) {
 
 ?>
 <html>
-<title>Testing Scalar Type Declaration in PHP 7</title>
-
+<title>Testing Return Type Declaration in PHP 7</title>
+<body>
 <b>Function created:</b><br>
 function double($a) {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;return $a * 2;<br>
@@ -208,4 +208,5 @@ Testing the function passing an <i>float (12.34)</i> value:<?= onlyReturn(12.34)
 Testing the function passing an <i>boolean (true)</i> value:<?= onlyReturn(true) ?><br>
 Testing the function passing an <i>boolean (false)</i> value:<?= onlyReturn(false) ?><br>
 <br>
+</body>
 </html>

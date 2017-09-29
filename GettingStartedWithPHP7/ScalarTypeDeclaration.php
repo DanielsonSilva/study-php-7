@@ -31,7 +31,7 @@ function sendHappiness($a) {
 ?>
 <html>
 <title>Testing Scalar Type Declaration in PHP 7</title>
-
+<body>
 <b>Function created:</b><br>
 function sendHappiness($a) {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;var_dump($a);<br>
@@ -155,4 +155,5 @@ Testing the function passing an <i>float (12.34)</i> value:<?= sendBoolean(12.34
 Testing the function passing an <i>boolean (true)</i> value:<?= sendBoolean(true) ?><br>
 Testing the function passing an <i>boolean (false)</i> value:<?= sendBoolean(false) ?><br>
 <br>
+</body>
 </html>
