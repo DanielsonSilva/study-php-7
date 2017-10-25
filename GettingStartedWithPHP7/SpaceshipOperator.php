@@ -37,5 +37,14 @@ true <=> false ? <b><?= true <=> false ?></b><br>
 false <=> true ? <b><?= false <=> true ?></b><br>
 false <=> false ? <b><?= false <=> false ?></b><br>
 <br>
+array(20,20,20) <=> array(20,20,20) ? <b><?= array(20,20,20) <=> array(20,20,20) ?></b><br>
+array(20,19,30) <=> array(20,20,10) ? <b><?= array(20,19,30) <=> array(20,20,10) ?></b><br>
+array(20,19,30) <=> array(20,20) ? <b><?= array(20,19,30) <=> array(20,20) ?></b><br>
+array(10,10) <=> array(10,10,10) ? <b><?= array(10,10) <=> array(10,10,10) ?></b><br>
+array(10) <=> array(10,0,-5) ? <b><?= array(10) <=> array(10,0,-5) ?></b><br>
+<br>
+2 <=> true ? <b><?= 2 <=> true ?></b><br>
+0 <=> false ? <b><?= 0 <=> false ?></b><br>
+false <=> -5 ? <b><?= false <=> -5 ?></b><br>
 </body>
 </html>
