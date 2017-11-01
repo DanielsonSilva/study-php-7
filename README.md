@@ -30,7 +30,6 @@ Some examples require a MySQL server running with certain tables created to be e
 ## Working with Databases
 * PDO
 * Doctrine
-* Redis
 
 ## Basic Object-Oriented Programming
 * Class Construct
@@ -40,8 +39,8 @@ Some examples require a MySQL server running with certain tables created to be e
 
 ## SOLID Principles
 * Single Responsibility Principle
-* Open Closed Principle (+)
-* Liskov Substitution Principle (+)
+* Open Closed Principle
+* Liskov Substitution Principle
 * Interface Segregation Principle (+)
 * Dependency Inversion Principle (+)
 
