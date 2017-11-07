@@ -6,6 +6,7 @@ These are the topics that examples was made to study the new features of PHP 7. 
 Some examples require a MySQL server running with certain tables created to be executed correctly.
 
 (+) Examples not done yet.
+(*) The examples is inherit in another examples like the PSR Standard is used in examples latter or sooner in case of Advanced OOP.
 
 ## Getting Started With PHP 7
 * Scalar Type Declaration
@@ -25,7 +26,7 @@ Some examples require a MySQL server running with certain tables created to be e
 * Heredoc
 * Date and Time
 * Dependency Management
-* PSR Standard
+* PSR Standard (*)
 
 ## Working with Databases
 * PDO
@@ -42,14 +43,20 @@ Some examples require a MySQL server running with certain tables created to be e
 * Open Closed Principle
 * Liskov Substitution Principle
 * Interface Segregation Principle
-* Dependency Inversion Principle (+)
+* Dependency Inversion Principle
 
 ## Advanced Object-Oriented Programming
-* Inheritance (+)
-* Abstract Class (+)
-* Interface (+)
-* Static Variables and Methods (+)
+* Inheritance (*)
+* Abstract Class (*)
+* Interface (*)
+* Static Variables and Methods
 * Magic Methods (+)
 * Traits (+)
 * Namespaces (+)
 * Autoloading (+)
+
+## Design Pattern
+* Singleton (+)
+* Factory Method (+)
+* Repository (+)
+* Model View Controller (+)
