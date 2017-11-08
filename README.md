@@ -53,7 +53,7 @@ Some examples require a MySQL server running with certain tables created to be e
 * Magic Methods
 * Traits
 * Namespaces
-* Autoloading (+)
+* Autoloading
 
 ## Design Pattern
 * Singleton (+)
