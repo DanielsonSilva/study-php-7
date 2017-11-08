@@ -52,7 +52,7 @@ Some examples require a MySQL server running with certain tables created to be e
 * Static Variables and Methods
 * Magic Methods
 * Traits
-* Namespaces (+)
+* Namespaces
 * Autoloading (+)
 
 ## Design Pattern
