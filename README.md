@@ -50,8 +50,8 @@ Some examples require a MySQL server running with certain tables created to be e
 * Abstract Class (*)
 * Interface (*)
 * Static Variables and Methods
-* Magic Methods (+)
-* Traits (+)
+* Magic Methods
+* Traits
 * Namespaces (+)
 * Autoloading (+)
 
