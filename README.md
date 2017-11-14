@@ -56,7 +56,7 @@ Some examples require a MySQL server running with certain tables created to be e
 * Autoloading
 
 ## Design Pattern
-* Singleton (+)
+* Singleton
 * Factory Method (+)
 * Repository (+)
 * Model View Controller (+)
